@@ -4,9 +4,6 @@ A set of scripts that demonstrate how to perform memory injection.
 
 I've tried to make these techniques as simple and opsec safe as possible, avoiding unnecessary memory modifications, process or file creation. I'm no C# expert or memory injection guru so use these examples at your own risk :)
 
-The shellcode used in the examples can be found below (there are also dll/exe versions too): 
-
-https://github.com/peterferrie/win-exec-calc-shellcode
 
 ### Contents
 
